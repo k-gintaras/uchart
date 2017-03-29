@@ -7,6 +7,7 @@ starts as super simple pure js canvas doughnut available as horizontal and verti
 
 ### howto: 
 ```html
+<canvas id="canvas2" width="1600" height="2400" style="width:600px;height:auto;"></canvas>
 <canvas id="canvas1" width="2048" height="1024" style="width:800px;height:auto;"></canvas>
 <script src='udonut.js' type='text/javascript'></script>
 ```
